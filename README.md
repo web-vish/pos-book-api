@@ -2,8 +2,16 @@
 A demontstration on Position Book System using SpringBoot, Java,  
 
 ## Setup
-The API runs on ``8080`` port
-The Application shall be run using Maven commands. 
+The API runs on ``8080`` port.
+Please ensure that you have Java 21 or higher installed on your machine.
+To run the application, follow these steps after cloning the repo to local machine:
+
+1. ``mvn clean install``
+2. ``mvn spring-boot:run``
+
+or
+
+Simply use your favorite IDE to run the application.
 
 ## Access to App
 ###APIs
